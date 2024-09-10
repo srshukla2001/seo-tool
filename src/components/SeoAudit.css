@@ -1,0 +1,86 @@
+.seo-audit-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .seo-audit-title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .seo-audit-input {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .seo-audit-text-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 10px;
+    flex: 1;
+  }
+  
+  .seo-audit-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .seo-audit-button:disabled {
+    background-color: #6c757d;
+    cursor: not-allowed;
+  }
+  
+  .seo-audit-error {
+    color: red;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .seo-audit-results {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .seo-audit-results-title {
+    margin-bottom: 20px;
+  }
+  
+  .seo-audit-section {
+    margin-bottom: 20px;
+  }
+  
+  .seo-audit-subtitle {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .seo-audit-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .seo-audit-list-item {
+    padding: 5px 0;
+  }
+  
+  .seo-audit-list-item a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .seo-audit-list-item a:hover {
+    text-decoration: underline;
+  }
+  
